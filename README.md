@@ -1,4 +1,4 @@
-# UART_FPGA_Calculator
+# UART FPGA Calculator
 Calculator written in VHDL uses uart to transmit and recieve data
 
 
